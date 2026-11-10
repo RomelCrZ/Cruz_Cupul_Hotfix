@@ -5,7 +5,7 @@ Personaje personaje = new()
     Nombre = "Aria",
     Clase = "Maga",
     Nivel = 12,
-    Vida = 100,
+    Vida = 1000,
     Arma = "Bastón de cristal"
 };
 
